@@ -1,0 +1,15 @@
+.car{
+position: fixed;
+background-color: beige;
+width: 90%;
+height: 100%;
+left: 5%;
+right: 5%;
+align-items: center;
+text-align: center;
+}
+a{
+    width: 10%;
+    height: 10%;
+    color: blanchedalmond;
+}
